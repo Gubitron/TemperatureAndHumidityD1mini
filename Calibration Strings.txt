@@ -1,0 +1,7 @@
+// Going from Node_1 to Node_5
+// Voltage Slope, Voltage Intercept, Temperature Slop, Temperature Intercept (both non DHT)
+0.00493312,0.145612,0.924163,1.02125
+0.00520607,0.129129,0.980645,0.0344086
+0.00502427,0.0381654,1.11497,-2.89538
+0.00504628,0.152878,1.12653,-3.03367
+0.00515934,0.107647,1.04,-1.345
